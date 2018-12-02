@@ -1,33 +1,39 @@
 - name: Aruna Balasubramanian
   photo: aruna.jpg
-  info: Assistant Professor
+  info: Assistant Professor of Computer Science at Stony Brook University
   email: arunab AT cs.stonybrook.edu
   website: <a href="https://www3.cs.stonybrook.edu/~arunab/">personal website</a>
 
-- name: Doohee Cho
-  photo: Doohee2.jpg
-  info: Postdoc, started May 2017
-  email: cho@physics.leidenuniv.nl
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
-
-- name: Irene Battisti
-  photo: irene.jpg
-  info: PhD student, started Jan 2015
-  email: Battisti@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
+- name: Donald E. Porter
+  photo: don.jpg
+  info: Associate Professor of Computer Science at The University of North Carolina at Chapel Hill
+  email: 
 
 
+- name: I.V. Ramakrishnan
+  photo: iv.jpg
+  info: Professor of Computer Science at Stony Brook University
+  email: 
+
+- name: Roy Shilkrot
+  photo: roy.jpg
+  info: Assistant Professor of Computer Science at Stony Brook University
+  email: 
+
+- name: Jian Xu
+  photo: jian.png
+  info: PhD Student
+  email: 
+
+- name: Syed Masum Billah
+  photo: syed.png
+  info: PhD Student
+  email: 
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: 
+  email:
   number_educ: 0
   education1:
   education2:
