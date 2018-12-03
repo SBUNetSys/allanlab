@@ -1,36 +1,35 @@
-- name: Aruna Balasubramanian
+- name: <a href="https://www3.cs.stonybrook.edu/~arunab/">Aruna Balasubramanian</a>
   photo: aruna.jpg
   info: Assistant Professor of Computer Science at Stony Brook University
   email: arunab AT cs.stonybrook.edu
-  website: <a href="https://www3.cs.stonybrook.edu/~arunab/">personal website</a>
 
-- name: Donald E. Porter
+- name: <a href="http://www.cs.unc.edu/~porter/">Donald E. Porter</a>
   photo: don.jpg
   info: Associate Professor of Computer Science at The University of North Carolina at Chapel Hill
   email: 
 
 
-- name: I.V. Ramakrishnan
+- name: <a href="https://www.cs.stonybrook.edu/people/faculty/IVRamakrishnan">I.V. Ramakrishnan
   photo: iv.jpg
   info: Professor of Computer Science at Stony Brook University
   email: 
 
-- name: Roy Shilkrot
+- name: <a href="http://hi.cs.stonybrook.edu/">Roy Shilkrot
   photo: roy.jpg
   info: Assistant Professor of Computer Science at Stony Brook University
   email: 
 
-- name: Jian Xu
+- name: <a href="http://www3.cs.stonybrook.edu/~jianxu1/">Jian Xu
   photo: jian.png
   info: PhD Student
   email: 
 
-- name: Syed Masum Billah
+- name: <a href="https://www3.cs.stonybrook.edu/~sbillah/">Syed Masum Billah
   photo: syed.png
   info: PhD Student
   email: 
 
-- name: Qingqing Cao
+- name: <a href="https://awk.ai/about/">Qingqing Cao
   photo: qqcao.jpg
   info: PhD Student
   email: 
@@ -39,6 +38,7 @@
   photo: rock.jpg
   info: 
   email:
+  website: <a href="https://www3.cs.stonybrook.edu/~arunab/">personal website</a>
   number_educ: 0
   education1:
   education2:
