@@ -1,22 +1,22 @@
 - title: "Ultra-Low-Power Mode for Screenless Mobile Interaction"
   image: pub_ulpm.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
+  description: To maximize power saving when a smartphone is in critically low battery status, Ultra-Low-Power Mode turns off the screen but still keeps the device interactive and responsive to users' interaction. 
   authors: Jian Xu, Suwen Zhu, Aruna Balasubramanian* , Xiaojun Bi* , Roy Shilkrot* (*Alphabetical Order)
   link:
     url: https://dl.acm.org/citation.cfm?id=3242614
     display: UIST2018
   highlight: 1
-  news2:
+  news2: See also <a href="https://www.youtube.com/watch?v=H3l-AJ_jQMI&feature=youtu.be">Ultra-Low-Power Mode Demo Video</a> 
 
 - title: "UIWear: Easily Adapting User Interfaces for Wearable Devices"
   image: uiwear_spotify.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
+  description: To enhance the usability of smartwatches and enrich smartwatch app marketplace, UIWear is able to automatically generate smartwatch apps in a much more efficient manner that requires much less engineering effort.
   authors: Jian Xu* , Qingqing Cao* , Aditya Prakash, Aruna Balasubramanian, Donald E. Porter (*Co-primary Authors)
   link:
     url: https://dl.acm.org/citation.cfm?id=3117819
     display:  MobiCom2017
   highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
+  news2: See also <a href="https://www.youtube.com/watch?v=YEQ3HNeQnts">UIWear Demo Video</a> 
 
 - title: "Demo: UIWear: Easily Adapting User Interfaces for Wearable Devices"
   image: dummy.png
