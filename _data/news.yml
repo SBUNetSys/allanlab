@@ -1,57 +1,15 @@
-- date: 23. October 2018
-  headline: "Our paper about how to construct an STM is <a href='https://arxiv.org/pdf/1810.09727.pdf'>on arXiv</a>. <img src='/images/newspic/DomeNews.png' class='img-responsive' style='max-width: 192px' />"
+- date: 1. December 2018
+  headline: "SBUWear new version of website released!"
 
-- date: 08. October 2018
-  headline: "We discovered charge trapping in a high-Tc superconductor! Publication in <a href='https://www.nature.com/articles/s41567-018-0300-z'>Nature Physics</a>. <img src='/images/pubpic/Pub_BCl.png' class='img-responsive' style='max-width: 192px' />"
+- date: 17. October 2018
+  headline: "Jian's <a href='https://www.youtube.com/watch?v=65OeciWItcc'>talk</a> in UIST2018 about Ultra-Low-Power Mode Made in Berlin."
 
-- date: 27. September 2018
-  headline: "Our MHz amplifier for STM is published in <a href='https://aip.scitation.org/doi/10.1063/1.5043267'>Review of Scientific Instruments</a>. <img src='/images/newspic/amp.PNG' class='img-responsive' style='max-width: 192px' />"
+- date: 2. August 2018
+  headline: "Our paper of Ultra-Low-Power Mode for Screenless Mobile Interaction got accepted in UIST2018."
 
-- date: 16. May 2018
-  headline: "Milan, Koen and Irene talk about superconductivity in <a href='https://youtu.be/hxz22AYUGhM'>Made in Leiden</a>."
+- date: 18. October 2017
+  headline: "Jian's <a href='https://www.youtube.com/watch?v=4Wk6290v8AI'>talk</a> in MobiCom2017 about UIWear Made in Utah."
 
-- date: 4. May 2018
-  headline: "Welcome Ram!"
-
-- date: 5.-9. March 2018
-  headline: "Irene and Milan are at the March Meeting (Talk <a href='http://meetings.aps.org/Meeting/MAR18/Session/E45.11'>Tue 10am, session E45</a>)"
-
-- date: 27. December 2017
-  headline: "The smart tips are <a href='https://arxiv.org/pdf/1712.08620.pdf'> on arXiv!</a> A collaboration with the <a href='http://groeblacherlab.tudelft.nl/'>Gröblacher Lab</a> at TU Delft. Stay tuned. <img src='/images/newspic/SmartTip.png' class='img-responsive' style='max-width: 192px' />"
-
-- date: 13. November 2017
-  headline: "<a href='http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf'> New paper</a> published in collaboration with the group of Jan van Ruitenbeek"
-
-- date: 10. November 2017
-  headline: "Doohee makes the third place at the <a href='https://www.universiteitleiden.nl/en/news/2017/11/sander-blok-wins-lion-image-award-2017'>LION Image Award</a>. <img src='/images/newspic/doohee_prize.png' class='img-responsive' style='max-width: 192px' />"
-
-- date: 9. October 2017
-  headline: "We contributed to Miguel and Jan's  <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507'>new paper</a>.  "
-
-- date: 12. August 2017
-  headline: "<a href='https://www.universiteitleiden.nl/en/news/2017/08/two-erc-grants-for-leiden-physics'>We got an ERC starting grant</a>."
-
-- date: 10. August 2017
-  headline: "Our paper is published in <a href='https://scipost.org/SciPostPhys.3.2.010/pdf'>SciPost Physics</a>."
-
-- date: 17. - 21. July 2017
-  headline: "<a href='https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize'>Milan wins the Bryan R. Coles prize</a> at SCES 2017, Prague. Koen received the best poster presentation award.  <img src='/images/newspic/scesprizes.jpg' class='img-responsive' style='max-width: 192px' />"
-
-- date: 17. - 21. July 2017
-  headline: "Koen, Maarten and Milan will be at SCES 2017, Prague. Come check out our posters on Tuesday&Thursday and talk on Thursday!"
-
-- date: 18. June 2017
-  headline: "<b>Paper on poor electronic screening published in  <a href='https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141'>  PRB</a> as Editors' selection! </b>"
-
-- date: 15. May 2017
-  headline: Welcome Doohee!
-
-- date: 13. - 17. March 2017
-  headline: Koen & Irene give talks at the APS March Meeting in New Orleans.
-
-- date: 27. January - 3. March 2017
-  headline: "We are looking forward to co-hosting <a href='http://www.lorentzcenter.nl/lc/web/2017/877/info.php3?wsid=877&venue=Oort'>the workshop on unconventional superconductivity</a> at the Lorentz center. <img src='/images/newspic/LCposter.jpg' class='img-responsive' style='max-width: 192px' />"
-
-- date: 17-18. Aug 2017
-  headline: Irene, Koen, Maarten and Milan will be at Physics@Veldhoven 2017. (Talk at PT6.1 and poster at P9.022).
+- date: 10. July 2017
+  headline: "Our paper of UIWear: Easily Adapting User Interfaces for Wearable Devices got accepted in MobiCom2017"
 
