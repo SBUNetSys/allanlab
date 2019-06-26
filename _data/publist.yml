@@ -5,6 +5,9 @@
   link:
     url: https://dl.acm.org/citation.cfm?id=3242614
     display: UIST2018
+  codelink:
+    url: https://github.com/SBUNetSys/UIWear
+    display: Code
   highlight: 1
   news2: See also <a href="https://www.youtube.com/watch?v=H3l-AJ_jQMI&feature=youtu.be">Ultra-Low-Power Mode Demo Video</a> 
 
@@ -15,6 +18,9 @@
   link:
     url: https://dl.acm.org/citation.cfm?id=3117819
     display:  MobiCom2017
+  codelink:
+    url: https://github.com/SBUNetSys/UIWear
+    display: Code
   highlight: 1
   news2: See also <a href="https://www.youtube.com/watch?v=YEQ3HNeQnts">UIWear Demo Video</a> 
 

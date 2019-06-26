@@ -7,8 +7,7 @@ permalink: /
 ---
 
 We are a research group at the [Computer Science Department of Stony Brook University](https://www.cs.stonybrook.edu). 
-Wearable computing devices are a major growth sector for computing, and represent a step toward practical, ubiquitous computing.
-Our goal is to improve wearable devices and mobile devices, to make them be running more efficiently, saving more power, and being more accessible to people, including visual impairs.
+The goal of this work is to use UI Virtualization to (a) easily extend smartphone applications to wearable devices, and (b) improve power consumption and accessibility. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -53,12 +52,10 @@ Our goal is to improve wearable devices and mobile devices, to make them be runn
 
 
 
-So far, we have developed novel platforms to automatically generate wearable apps(ie., UIWear) and save power consumptions(ie., ULPM) drastically even when the power status is critically low. See [Research](research)).
-
- **We are  looking for passionate new PhD students, and Master students to join the team** 
+To this end, we have developed systems that can generate wearable apps with limited developer effort(UIWear), design an Ultra Low Power Mode for phones by enables screenless interaction (ULPM), and enable users with visual impairments to interact with their smartphones while conserving power and improving privacy (DarkReader). See [Research](research).
 
 
-We are grateful for funding and support from Stony Brook University, and the [NSF](https://www.nsf.gov/)).
+We are grateful for funding and support from Stony Brook University, and the [NSF](https://www.nsf.gov/).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbu-logo.png" style="width: 150px">

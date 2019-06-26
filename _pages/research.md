@@ -7,20 +7,30 @@ permalink: /research/
 ---
 
 # Research
-
+<p>
+<b>UIWear:</b>
 Wearable computing devices are a major growth sector
 for computing, and represent a step toward practical,
 ubiquitous computing. However, application developers are not fully utilizing the functionalities of these wearable devices. The primary reason for this is that writing wearable applications is tedeous.
+</p>
+<p>
+The UIWear project uses UI virtualization techniques to easily extend smartphone application to wearable devices. The key idea is to decouple UI design from UI management. The developer writes a simple metaprogram to specify how the UI is redesigned for the wearable. UIWear performs all the UI management.
 
-In the project of UIWear, we work on the following steps to dramatically improve the adoption of wearable devices:
-<ul>(i) Study the user interface patterns available in wearable devices to characterize the best way to utilize wearable interfaces for different tasks</ul>
-<ul>(ii) Automatically and optimally extend smartphone user interface to any wearable device </ul>
-<ul>(iii) Conduct thorough user studies to study the trade-offs of the new wearable applications that are created automatically.</ul>
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/uiwear_arch){: style="width: 300px; float: right; border: 10px"}
+</p>
 
-The key idea of UIWear is that we leverage the UI view tree mechanism from operating systems to extract the view tree that represents current phone UI. 
-The view tree can be regarded as the intermediate representation of phone UI, which is reused and re-rendered for the smartwatch UI.
+<p>
+<b> ULPM </b>: ULPM is an Ultra Low Power Mode to reduce power consumption when the phone battery is critically low.  To this end, ULPM enables screenless interactions for low-power operations. The idea is to extend mobile battery lifetime by turning off the screen while keeping the foreground app touch-interactive. 
+ULPM enables a new keyboard design that allows users to type even when the screen is off. 
+</p>
 
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/ulpm_stack){: style="width: 300px; float: left; border: 10px"} -->
 
+
+<p>
+<b> DarkReader </b> 
+DarkReader is a screen reader for users with visual impairment, that reduces power consumption while also reducing shoulder surfing attacks. DarkReader darkens the screen by truly turning it off (unlike existing occluding techniques), but allows
+users to interact with their smartphones. A user study
+with 10 blind participants shows that participants perceived
+no difference in interaction experience between DarkReader
+and the default screen reader. Yet DarkReader could save 24%
+to 53% power depending on tasks and screen brightness. 
+</p>
