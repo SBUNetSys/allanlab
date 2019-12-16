@@ -1,14 +1,3 @@
-- title: "DarkReader: Bridging the Perception of Smartphone Power Consumption to Reality for Blind Users"
-  image: darkreader.png
-  description: We figured out that blind users are facing more severe problems of low-battery anxiety and came up with DarkReader design to maximize smartphone power saving for them. 
-  authors: Jian Xu* , Syed Masum Billah* , Aruna Balasubramanian, Roy Shilkrot (*Co-primary Authors) <font color="red">Best Paper Nominee</font>
-  link:
-    url: https://dl.acm.org/citation.cfm?id=3353806
-    display: ASSETS2019
-  highlight: 1
-  news2: See also <a href="https://www.youtube.com/watch?v=W1Q9yXbh59Y">DarkReader Demo Video</a> 
-  news3: Best Paper Nominee
-
 - title: "Ultra-Low-Power Mode for Screenless Mobile Interaction"
   image: pub_ulpm.png
   description: To maximize power saving when a smartphone is in critically low battery status, Ultra-Low-Power Mode turns off the screen but still keeps the device interactive and responsive to users' interaction. 
@@ -35,13 +24,3 @@
   highlight: 1
   news2: See also <a href="https://www.youtube.com/watch?v=YEQ3HNeQnts">UIWear Demo Video</a> 
 
-- title: "Demo: UIWear: Easily Adapting User Interfaces for Wearable Devices"
-  image: dummy.png
-  description: ""
-  authors:
-    Jian Xu* , Qingqing Cao* , Aruna Balasubramanian, Donald E. Porter (*Co-primary Authors)
-  link:
-    url: https://netsys.cs.stonybrook.edu/sites/netsys.cs.stonybrook.edu/files/main.pdf
-    display: MobiCom2017 Demo
-  highlight: 0
-  news2:

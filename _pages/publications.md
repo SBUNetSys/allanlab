@@ -58,8 +58,14 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>,
-  <a href="{{ publi.codelink.url }}">{{ publi.codelink.display }}</a> 
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
 
+
+## Code Release
+{% for publi in site.data.codelist %}
+  {{ publi.title }} <br />
+  <a href="{{ publi.codelink.url }}">{{ publi.codelink.display }}</a> 
+
+{% endfor %}

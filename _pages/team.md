@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students and Master students to join the team** 
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students).
+Jump to [staff](#staff), [affiliated staff](#affiliated-staff), [master and undergrad students](#master-and-undergrad-students).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -76,9 +76,70 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
+## Affiliated Staff
+{% assign number_printed = 0 %}
+{% for member in site.data.affiliated_team_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br></i>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 
-## Master and Bachelor Students
+## Master and Undergrad Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -169,7 +230,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <table align="center" style="width:100%">
  <tr>
     <th>Master Students</th>
-    <th>Bachelor Students</th>
+    <th>Undergrad Students</th>
     <th>High School Students</th>
   </tr>
   <tr>
